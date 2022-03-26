@@ -1,0 +1,37 @@
+.conteiner{
+
+    background-color: #ff74; 
+    width: 800px;
+    height: 400px;
+}
+.div2{
+
+    width:90%;
+     height:10%; 
+    background-color:#3b613b
+}
+
+.paragrafo{
+    color:white; background-color:orchid;
+    font-weight: 40px; 
+    font-family:  serif;
+
+
+}
+
+.div3{
+
+    width: 20%; 
+    height: 90vh; 
+    background-color:
+    rgb(206, 219, 17);
+
+
+}
+.div4{
+
+
+    height: 81% ;
+    width:21vw ;
+    background-color: rgba(216, 24, 184, 0.74);
+}
